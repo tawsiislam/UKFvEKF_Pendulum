@@ -2,6 +2,7 @@
 
 ### Authors: Deepak Ganesh, Tawsiful Islam, Magnus Tibbe
 
+## **NOTE: This project was made in a course at Royal Institute of Technology (KTH). Due to university's policies regarding plagiarism, no copies of codes are allowed from this repository before July 2024. The authors will not take any responsibilities for plagiarism made by students at KTH or by someone at other universities/institutions. This repository is uploaded for personal purposes.**
 
 Here is my report of the project [Project Reports](https://github.com/tawsiislam/UKFvEKF_Pendulum/blob/main/UKFvEKF_report_Tawsiful_Islam.pdf) 
 
